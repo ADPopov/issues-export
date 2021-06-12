@@ -1,0 +1,19 @@
+{
+  "key": "open_issues_list",
+  "name": "Задачи по исполнителям",
+  "version": "1.0.0",
+  "description": "Показывает открытые задачи по исполнителям.",
+  "author": "AD.Popov",
+  "applicationName": "YouTrack",
+  "products": {
+    "Hub": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "dependencies": {
+    "Hub": ">=2018.1",
+    "YouTrack": ">=2018.1"
+  },
+  "capabilities": {
+    "topNavigation": true
+  }
+}
